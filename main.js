@@ -22,7 +22,7 @@ const listRepos = async username => {
 
 }
 
-listRepos('ObayuwanaPaul');
+listRepos('Pauxiel');
 
 
 
